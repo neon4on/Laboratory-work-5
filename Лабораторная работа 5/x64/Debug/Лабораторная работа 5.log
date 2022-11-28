@@ -1,3 +1,4 @@
 ﻿  Лабораторная работа 5.cpp
-C:\Users\Rush\Desktop\Valeriy Kamenskih AISTbd-11\Лабораторная работа 5\Лабораторная работа 5.cpp(27,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Rush\Desktop\Valeriy Kamenskih AISTbd-11\Лабораторная работа 5\Лабораторная работа 5.cpp(10,12): warning C4101: j: неиспользованная локальная переменная
+C:\Users\Rush\Desktop\Valeriy Kamenskih AISTbd-11\Лабораторная работа 5\Лабораторная работа 5.cpp(10,9): warning C4101: i: неиспользованная локальная переменная
   Лабораторная работа 5.vcxproj -> C:\Users\Rush\Desktop\Valeriy Kamenskih AISTbd-11\Лабораторная работа 5\x64\Debug\Лабораторная работа 5.exe
